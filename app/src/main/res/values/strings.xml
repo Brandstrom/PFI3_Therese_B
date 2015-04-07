@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Assignment_1</string>
+    <string name="hello_world">My new app with quotesjnmh!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Next Quote</string>
+    <string name="random">Random Quotes</string>
+    <string name="RN">New Quote</string>
+
+    <string-array name="quotes">
+        <item>My very importent quote one!</item>
+        <item>My very importent quote two!</item>
+        <item>My very importent quote three!</item>
+    </string-array>
+
+</resources>
